@@ -1,0 +1,43 @@
+10:15:41.155 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:15:41.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:41.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:15:41.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:15:41.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:41.177 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:15:41.186 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:41.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:15:41.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:15:41.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:41.192 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:15:41.201 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Updating user: testuser1
+10:15:42.308 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Updated user details for : testuser1
+10:15:42.310 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Updating user: testuser2
+10:15:43.397 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Updated user details for : testuser2
+10:15:43.400 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Updating user: testuser3
+10:15:44.523 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Updated user details for : testuser3
+10:15:44.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:44.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:15:44.532 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:15:44.532 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:44.538 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:15:44.544 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:44.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:15:44.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:15:44.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:44.554 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:15:44.561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:44.562 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:15:44.562 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:15:44.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:44.566 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:15:44.574 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:44.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:15:44.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+10:15:44.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:44.579 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+10:15:44.585 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Deleting user: testuser1
+10:15:45.684 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - testuser1 user has been deleted
+10:15:45.686 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Deleting user: testuser2
+10:15:46.787 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - testuser2 user has been deleted
+10:15:46.789 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - Deleting user: testuser3
+10:15:47.906 [main] INFO  api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile - testuser3 user has been deleted

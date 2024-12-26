@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Pet UserAPI Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="extentlisteners.ExtentListeners"/>
+  </listeners>
+  <test thread-count="5" name="Pet UserAPI Suite(failed)">
+    <classes>
+      <class name="api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile">
+        <methods>
+          <include name="createUsersUsingDP" invocation-numbers="0 1 2"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- api.testcases.DataDrivenTests_UserEndpoints_GettingUrlsFromRoutesPropertiesFile -->
+    </classes>
+  </test> <!-- Pet UserAPI Suite(failed) -->
+</suite> <!-- Failed suite [Pet UserAPI Suite] -->
